@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, AI, and open-source projects
 - 🌱 I’m currently learning full-stack web development and machine learning
 - 💞️ I’m looking to collaborate on innovative tech projects, AI models, and cool web applications
-- 📫 How to reach me: vishal7763@example.com or connect with me on LinkedIn
+- 📫 How to reach me: vishallsinghh@protonmail.com or connect with me on LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
